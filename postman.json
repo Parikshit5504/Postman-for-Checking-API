@@ -1,0 +1,44 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      },
+      {
+        "id": 2,
+        "title": "name",
+        "author": "Pawan vedpathak"
+      },
+      {
+        "id": 3,
+        "title": "name",
+        "author": "Parikshit desai"
+      },
+      {
+          "id": 4,
+          "title": "name",
+          "author": "Rohit Jadhav"
+        },
+      {
+        "id": 5,
+        "title": "name",
+        "author": "Revati khiste"
+      },
+      {
+        "id": 6,
+        "title": "name",
+        "autor": "sahil more"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
